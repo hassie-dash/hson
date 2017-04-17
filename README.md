@@ -77,7 +77,7 @@ Methods
 -------
 * <b>HSON.Downloader</b>
   * <b>setURL(param)</b> - The URL of the JSON to download and convert to a JSON object. Can either be a string or a string resource.
-  * <b>download(Callback.DownloadCallback) - Start the download. A download callback is required as the parameter.
+  * <b>download(Callback.DownloadCallback)</b> - Start the download. A download callback is required as the parameter.
 * <b>HSON.Converter</b>
   * <b>setString(String)</b> - The string to be converted to a JSON object. Must be a string.
   * <b>convert(Callback.ConversionCallback)</b> - Start the conversion. A conversion callback is required as the parameter.
