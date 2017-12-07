@@ -1,5 +1,6 @@
 HSON
 ====
+[![Build Status](https://travis-ci.org/hassie-dash/hson.svg?branch=master)](https://travis-ci.org/hassie-dash/hson) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b45c9640718243fc839a9b3426a7fd21)](https://www.codacy.com/app/hassie-dash/hson?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=hassie-dash/hson&amp;utm_campaign=Badge_Grade) [![Download](https://api.bintray.com/packages/hassie/maven/hson/images/download.svg) ](https://bintray.com/hassie/maven/hson/_latestVersion)
 
 HSON is a quick to use Android library which converts a json file from a network response to a JSON object with UTF-8 encoding as standard, ensuring that all those special characters are present in the JSON object.
 
